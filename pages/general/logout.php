@@ -1,0 +1,3 @@
+<?php
+
+$authentication->logout();
